@@ -1,4 +1,4 @@
-# INSTRUCIONAL — Guia 
+# INSTRUCIONAL — Guia.. 
 
 > Este arquivo é **só para você**. Os meninos não precisam ler isso.
 > Aqui está tudo que você precisa saber para entender cada arquivo do template,
