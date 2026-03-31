@@ -1,0 +1,32 @@
+# Ambiente virtual — nunca commitado
+venv/
+.venv/
+env/
+
+# Banco de dados local
+*.db
+*.sqlite3
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Cache do pytest
+.pytest_cache/
+
+# Cache do Ruff
+.ruff_cache/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
+.env.local
